@@ -41,6 +41,7 @@ function capitalize1(str) {
 
 // ---------------------------------------------------------
 // Solution 2 (tedious and nasty looking)
+// Best solution is solution 1
 
 function capitalize(str) {
 	let result = str[0].toUpperCase();
